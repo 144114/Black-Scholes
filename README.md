@@ -1,6 +1,6 @@
 # Black-Scholes
 
-Quick acess to web app : [https://black-scholes-1441.streamlit.app](Black-Scholes)
+Quick acess to web app : [Black-Scholes](https://black-scholes-1441.streamlit.app)
 
 To run the app locally, follow these steps
 
